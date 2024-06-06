@@ -10,6 +10,10 @@ Nice to meet you!
 
 ### My Projects
 - [First Angular App](https://github.com/danielkremes05/first-app-angular)
+- [Simulation Iphone release 2007 - Java](https://github.com/danielkremes05/simulation_iphone_release_2007)
+- [Small Validator Process Of Candidates - Java](https://github.com/danielkremes05/small_validator_process_of_canidates)
+- [Simulation Bank Account in Java](https://github.com/danielkremes05/simulation_bank_account_simple_in_java)
+- [Simulation Simple Payroll - Java](https://github.com/danielkremes05/simple_payroll)
 
 ### Achievements
 - [Santander Coders 2024 ADA Tech](https://ada.tech/sou-aluno/programas/santander-coders-2024)
@@ -18,6 +22,6 @@ Nice to meet you!
 ### Certificates
 - [EF SET Certificate](https://cert.efset.org/BWTeEM)
 
-### Update: June 5, 2024
+### Update: June 6, 2024
 - Thank you for your visit!
 - I hope good things happen to you.
