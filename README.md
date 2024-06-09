@@ -31,7 +31,7 @@ Nice to meet you!
 
 - [EF SET Certificate](https://cert.efset.org/BWTeEM)
 
-### Update: June 6, 2024
+### Update: June 9, 2024
 
 - Thank you for your visit!
 - I hope good things happen to you.
