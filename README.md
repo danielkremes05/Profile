@@ -10,6 +10,11 @@ Nice to meet you!
 
 ## My Projects
 
+## Java Script
+
+- [First Portfolio](https://portfolio-one-smoky-81.vercel.app/)
+
+
 ## React
 - [First App React - App Calculator](https://github.com/danielkremes05/app-calulator)
 
@@ -31,7 +36,7 @@ Nice to meet you!
 
 - [EF SET Certificate](https://cert.efset.org/BWTeEM)
 
-### Update: June 9, 2024
+### Update: June 17, 2024
 
 - Thank you for your visit!
 - I hope good things happen to you.
